@@ -26,7 +26,8 @@ Horizontal Lines
 Escape Characters\_\`\-\*
 <br>
 ~~Strike through~~
-
+- [ ] checkbox
+- [x] checkbox (correct)
 
 
 [This repository](https://github.com/s533294/WebAppsGitPractice)
